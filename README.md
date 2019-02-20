@@ -1,0 +1,1 @@
+# A repo for checking rust server build succeed or fails on Azure DevOps pipelines
